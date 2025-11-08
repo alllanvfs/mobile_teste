@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="formas_pagamento">
+        <item>@string/payment_credit_card</item>
+        <item>@string/payment_debit_card</item>
+        <item>@string/payment_cash</item>
+        <item>@string/payment_pix</item>
+        <item>@string/payment_bank_slip</item>
+    </string-array>
+</resources>
+

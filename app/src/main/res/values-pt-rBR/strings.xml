@@ -1,0 +1,69 @@
+<resources>
+
+    <string name="app_name">MinhasDespesas</string>
+    <string name="list_title">Minhas Despesas</string>
+    <string name="add_title">Nova Despesa</string>
+    <string name="edit_title">Editar Despesa</string>
+    <string name="about_title">Sobre o Aplicativo</string>
+    <string name="settings_title">Configurações</string>
+
+    <string name="menu_add">Adicionar</string>
+    <string name="menu_about">Sobre</string>
+    <string name="menu_settings">Configurações</string>
+    <string name="menu_save">Salvar</string>
+    <string name="menu_clear">Limpar</string>
+    <string name="menu_edit">Editar</string>
+    <string name="menu_delete">Excluir</string>
+
+    <string name="form_description_label">Descrição da Despesa</string>
+    <string name="form_description_hint">Ex: Almoço de trabalho</string>
+    <string name="form_value_label">Valor</string>
+    <string name="form_value_hint">Ex: 25,50</string>
+    <string name="form_paid_check">Despesa já foi paga?</string>
+    <string name="form_category_label">Categoria</string>
+    <string name="form_payment_label">Forma de Pagamento</string>
+
+    <string name="category_food">Alimentação</string>
+    <string name="category_transport">Transporte</string>
+    <string name="category_health">Saúde</string>
+    <string name="category_leisure">Lazer</string>
+    <string name="category_bills">Contas</string>
+    <string name="category_education">Educação</string>
+    <string name="category_other">Diversos</string>
+
+    <string name="payment_credit_card">Cartão de Crédito</string>
+    <string name="payment_debit_card">Cartão de Débito</string>
+    <string name="payment_cash">Dinheiro</string>
+    <string name="payment_pix">PIX</string>
+    <string name="payment_bank_slip">Boleto Bancário</string>
+    <string name="pendente">Pendente</string>
+
+    <string name="toast_cleared">Campos limpos!</string>
+    <string name="toast_fill_all_fields">Por favor, preencha todos os campos.</string>
+    <string name="toast_invalid_value">Valor inválido.</string>
+    <string name="toast_expense_details">Descrição: %1$s\nValor: R$ %2$.2f\nCategoria: %3$s</string>
+
+    <string name="settings_sort_order">Modo de Ordenação</string>
+    <string name="settings_sort_by_description">Por Descrição (A-Z)</string>
+    <string name="settings_sort_by_value">Por Valor (Maior Primeiro)</string>
+
+    <string name="about_university">UTFPR - Câmpus Cornélio Procópio</string>
+    <string name="about_app_description">Este é um aplicativo de controle de despesas pessoais, desenvolvido como parte da disciplina de Programação para Dispositivos Móveis.</string>
+    <string name="about_developed_by">Desenvolvido por:</string>
+    <string name="about_author_name">Nome: Allan Vinicios Ferraz Santos</string>
+    <string name="about_author_course">Curso: Engenharia da Computação</string>
+    <string name="about_author_email">Email: allanvinicios@alunos.utfpr.edu.br</string>
+
+    <string name="form_date_label">Data</string>
+    <string name="form_date_hint">Clique para selecionar a data</string>
+
+    <string name="dialog_delete_title">Confirmar Exclusão</string>
+    <string name="dialog_delete_message">Tem a certeza que deseja apagar a despesa \'%1$s\'?</string>
+    <string name="dialog_delete_confirm">Apagar</string>
+    <string name="dialog_cancel">Cancelar</string>
+    <string name="toast_deleted">Despesa apagada!</string>
+    <string name="toast_delete_error">Erro ao selecionar item para apagar.</string>
+    <string name="category_unknown">Categoria Desconhecida</string>
+    <string name="category_list_title">Categorias</string>
+</resources>
+

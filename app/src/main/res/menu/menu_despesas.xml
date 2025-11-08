@@ -1,0 +1,27 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menuItemAdicionar"
+        android:icon="@drawable/ic_add"
+        android:title="@string/menu_add"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/menuItemSettings"
+        android:icon="@drawable/ic_settings"
+        android:title="@string/menu_settings"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/menuItemCategorias"
+        android:title="@string/category_list_title"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/menuItemSobre"
+        android:title="@string/menu_about"
+        app:showAsAction="never" />
+
+</menu>
+
